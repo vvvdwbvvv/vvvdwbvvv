@@ -1,14 +1,8 @@
 <div align="center">
 
-# Hi, I'm Eddie Tsai 👋
+# Hi 👋
 
 ### I build and study generative models, computer vision, and high-performance ML systems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-vvvdwbvvv-181717?style=for-the-badge&logo=github)](https://github.com/vvvdwbvvv)
-
-</div>
-
-## About me
 
 - 🔬 Exploring **diffusion models, flow matching, inverse problems, and image restoration**
 - ⚡ Learning how modern models run efficiently through **CUDA kernels and ML systems**
@@ -41,8 +35,11 @@
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker">
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git">
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux">
+    <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim">
   </kbd>
 </p>
+
+![snake gif](github-contribution-grid-snake.svg )
 
 ## Selected work
 
@@ -55,21 +52,9 @@
 | [**forge-cute-py**](https://github.com/vvvdwbvvv/forge-cute-py) | CuTe DSL · GPU kernels | A workflow for implementing, validating, benchmarking, and profiling GPU kernels |
 | [**AudioPilot**](https://github.com/vvvdwbvvv/AudioPilot) | LLMs · Computer vision | An automatic flight-control system built around language and vision models |
 
-## Current directions
 
-```text
-Generative modeling  ──► diffusion, flow matching, stochastic interpolants
-Inverse problems     ──► deblurring, restoration, posterior sampling
-ML systems           ──► CUDA, CuTe DSL, kernels, inference performance
-Learning by building ──► paper implementations and from-scratch reproductions
-```
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvvdwbvvv&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvdwbvvv&layout=compact&hide_border=true&theme=transparent)
 
-<sub>Always curious, always building.</sub>
-
-</div>
