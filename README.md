@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi 👋
 
@@ -58,7 +57,6 @@
 
 
 
-<div align="center">
 
 
 
