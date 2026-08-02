@@ -57,9 +57,6 @@
 
 | Project | Focus | What it explores |
 | --- | --- | --- |
-| [**BlurDM**](https://github.com/vvvdwbvvv/BlurDM) | Diffusion · Image restoration | A blur diffusion model for image deblurring, published at NeurIPS 2025 |
-| [**FlowDPS**](https://github.com/vvvdwbvvv/FlowDPS) | Flow matching · Inverse problems | Flow-driven posterior sampling for inverse problems, published at ICCV 2025 |
-| [**ID-Blau**](https://github.com/vvvdwbvvv/ID-Blau) | Diffusion · Deblurring | Implicit diffusion-based reblurring augmentation, published at CVPR 2024 |
 | [**DeepSeekV3 MoE CUDA**](https://github.com/vvvdwbvvv/DeepSeekV3-moe-cuda) | CUDA · ML systems | CUDA work targeting DeepSeek-V3 mixture-of-experts workloads |
 | [**forge-cute-py**](https://github.com/vvvdwbvvv/forge-cute-py) | CuTe DSL · GPU kernels | A workflow for implementing, validating, benchmarking, and profiling GPU kernels |
 | [**AudioPilot**](https://github.com/vvvdwbvvv/AudioPilot) | LLMs · Computer vision | An automatic flight-control system built around language and vision models |
