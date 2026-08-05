@@ -30,7 +30,6 @@
   &nbsp;
   <kbd>
     <kbd>Systems & Tools</kbd><br><br>
-    <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" alt="CUDA" title="CUDA">
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker">
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git">
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux">
