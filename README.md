@@ -52,13 +52,7 @@
     />
   </picture>
 
-## Selected work
 
-| Project | Focus | What it explores |
-| --- | --- | --- |
-| [**DeepSeekV3 MoE CUDA**](https://github.com/vvvdwbvvv/DeepSeekV3-moe-cuda) | CUDA · ML systems | CUDA work targeting DeepSeek-V3 mixture-of-experts workloads |
-| [**forge-cute-py**](https://github.com/vvvdwbvvv/forge-cute-py) | CuTe DSL · GPU kernels | A workflow for implementing, validating, benchmarking, and profiling GPU kernels |
-| [**AudioPilot**](https://github.com/vvvdwbvvv/AudioPilot) | LLMs · Computer vision | An automatic flight-control system built around language and vision models |
 
 
 
