@@ -5,9 +5,7 @@
 
 - 🔬 Exploring **diffusion models, flow matching, inverse problems, and image restoration**
 - ⚡ Learning how modern models run efficiently through **CUDA kernels and ML systems**
-- 🧠 Reproducing papers and systems to understand them from first principles
-- 🛠️ Also interested in practical tools across Python, Go, and the web
-- 📫 The best way to reach me is through [GitHub](https://github.com/vvvdwbvvv)
+- 🛠️ Also interested in practical tools across Python, Go, Rust, and the web
 
 ## Tech I work with
 
